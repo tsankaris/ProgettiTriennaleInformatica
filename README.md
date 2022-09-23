@@ -1,4 +1,4 @@
-# ProgettiTriennaleInformatica
+# Progetti Triennale Informatica
 
 Questo è il mio progetto scritto in python di business intelligence per i servizi finanziari
 
