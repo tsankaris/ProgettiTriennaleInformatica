@@ -1,4 +1,5 @@
 # ProgettiTriennaleInformatica
-progetti svolti personalmente durante la triennale di informatica all'università di Milano-Bicocca
 
 Questo è il mio progetto di business intelligence per i servizi finanziari
+
+La cartella BISF2021 contiene dell'altro materiale di business molto utile per altre analisi
