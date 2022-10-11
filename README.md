@@ -1,2 +1,2 @@
 # ProgettiTriennaleInformatica
-Due progetti di Linguaggi di Programmazione svolti durante la triennale di informatica all'università di Milano-Bicocca
+Progetto di Programmazione di dispositivi mobili svolto durante la triennale di informatica all'università di Milano-Bicocca
